@@ -1,0 +1,11 @@
+FiLib library
+----------------------------------------------------------------------
+
+This library aims to be lightweight booster for C programming language.
+It implements some abstract datatypes as well as some usual functions
+that can programmer need in day-to-day programming.
+
+In this project I practice what I learn, so please don't be mad that I'm
+reinventing wheel again. You don't have to use it :)
+
+Author: Marek Chalupa <mchqwerty@gmail.com>
